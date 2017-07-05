@@ -2,6 +2,8 @@
 
 > A background react element based on material-ui.
 
+[![Build Status](https://travis-ci.org/appsemble/material-ui-background.svg?branch=master)](https://travis-ci.org/appsemble/material-ui-background)
+
 
 ## Installation
 
